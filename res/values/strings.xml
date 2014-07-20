@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Voc Monitor Status</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Title">Website Title</string>
+    <string name="Description">Website Description</string>
+    <string name="Logo">Website Logo</string>
+    <string-array name="namesCake">
+        <item>BP:Main Stack</item>
+        <item>BP:RTO</item>
+        <item>BP:115 kV</item>
+        <item>BP:Community</item>
+        <item>BP:Shrimp Farm</item>
+        <item>BP:Commercial</item>
+        <item>SR:ED Oven</item>
+        <item>SR:RTO(SR)</item>
+        <item>SR:RTO Bypass</item>
+        <item>SR:SF Oven</item>
+<!--         <item>SR:TC Booth</item> -->
+        <item>SR:Community (Honda)</item>
+        <item>SR:Community (Pookmit)</item>
+        <item>SR:Community (Welding)       </item>
+    </string-array>
+    <string-array name="namesUrl">
+        <item >http://-----.com/readcurrents.ashx?s1=001</item>
+        <item >http://-----.com/readcurrents.ashx?s1=002</item>
+        <item >http://-----.com/readcurrents.ashx?s1=005</item>
+        <item >http://-----.com/readcurrents.ashx?s1=007</item>
+        <item >http://-----.com/readcurrents.ashx?s1=008</item>
+        <item >http://-----.com/readcurrents.ashx?s1=009</item>
+        <item >http://-----.com/readcurrents.ashx?s1=011</item>
+        <item >http://-----.com/readcurrents.ashx?s1=013</item>
+        <item >http://-----.com/readcurrents.ashx?s1=014</item>
+        <item >http://-----.com/readcurrents.ashx?s1=015</item>
+        <item >http://-----.com/readcurrents.ashx?s1=003</item>
+        <item >http://-----.com/readcurrents.ashx?s1=006</item>
+        <item >http://-----.com/readcurrents.ashx?s1=015</item>
+    </string-array>
+    
+</resources>

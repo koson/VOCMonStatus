@@ -1,0 +1,40 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+    
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="5dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+        
+        <TextView
+            android:id="@+id/tvCakeName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:text=""
+            android:textSize="20sp">
+        </TextView>
+                <TextView
+            android:id="@+id/cur"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="13dp" />
+        
+        
+    </LinearLayout>
+    
+    <ImageView
+        android:id="@+id/ivCakeImage"
+        android:layout_width="wrap_content"
+        android:layout_height="49dp"
+        android:src="@drawable/checkmark" >
+
+    </ImageView>
+    
+</LinearLayout>
